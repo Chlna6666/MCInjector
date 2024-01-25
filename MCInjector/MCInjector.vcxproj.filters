@@ -18,5 +18,19 @@
     <ClCompile Include="MCInjector.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="inject.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="inject.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
