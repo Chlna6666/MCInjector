@@ -28,3 +28,6 @@ MCInjector.exe -p "M:/xxx/xxx.dll" -i 14514
 ```bash
 MCInjector.exe -p "M:/xxx/xxx.dll" -i Minecraft.Windows.exe
 ```
+
+## 感谢  thank
+- [FateInjector](https://github.com/fligger/FateInjector)
